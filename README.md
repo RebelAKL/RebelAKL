@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Projects in Python (Newbie)</b>
+- <b>Python</b>
   - [Newbie Projects](https://github.com/RebelAKL/Projects-in-Python-Newbie)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Flutter</b>
