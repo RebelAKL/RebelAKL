@@ -20,6 +20,10 @@
 
 <h2>🔭 Electronics/IOT Projects:</h2>
 
+- <b>Hexabot</b>
+
+- <b>Mini Radar System</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
