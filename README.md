@@ -6,6 +6,11 @@
 
  - [Google Cyber Secuirty Certificate](https://github.com/RebelAKL/Projects-in-Python-Newbie) 
 
+<h2>👨‍💻 Ethical H@chking Projects:</h2>
+-<b> Information Secuirty</b>
+  - [Information Gathering](https://github.com/RebelAKL/InfoSec)
+   
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
