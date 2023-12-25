@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dushyant Kaushal</h1>
 <h3 align="center">SI VIS PACEM PARA BELLUM</h3>
 
-- 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
+- 📝 A cybersecurity enthusiast
 
 - 📫 How to reach me **unabridged7@duck.com**
 
