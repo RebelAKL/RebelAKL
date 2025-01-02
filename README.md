@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dushyant Kaushal</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">SI VIS PACEM PARA BELLUM</h3>
 
 - 📝 A cybersecurity enthusiast
