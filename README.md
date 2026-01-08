@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">SI VIS PACEM PARA BELLUM</h3>
 
-- 📝 A cybersecurity enthusiast
+- 📝 An enthusiast
 
-- 📫 How to reach me **unabridged7@duck.com**
+- 📫 How to reach me **dushyantkaushalofficial@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
